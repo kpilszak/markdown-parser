@@ -20,7 +20,7 @@ Project is created with:
 * JavaScript  
 
 ## Setup
-To run this project, open this in a new tab: <a href="https://kpilszak.github.io/nokia-snake/">https://kpilszak.github.io/nokia-snake/</a>
+To run this project, open this in a new tab: <a href="https://kpilszak.github.io/markdown-parser/">https://kpilszak.github.io/markdown-parser/</a>
 
 ## Sources
 This project has been created thanks to <a href="https://www.linkedin.com/in/vidhi-khaitan-393440205/>"Vidhi Khaitan</a> tutorial <a href="https://betterprogramming.pub/create-your-own-markdown-parser-bffb392a06db">Creating Your Own Markdown Parser</a> from BetterProgramming.
