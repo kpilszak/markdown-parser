@@ -1,11 +1,3 @@
-const { useCssModule } = require("vue");
-
-useCssModule.exports = {
-    
-    publicPath: ProcessingInstruction.env.NODE_ENV === 'production'
-
-    ? '/markdown-parser/'
-
-    :'/'
-    
-}
+module.exports = {
+    publicPath: process.env.NODE_ENV === "production" ? "/markdown-parser/" : "/"    
+};
