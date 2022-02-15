@@ -1,4 +1,4 @@
-<h1 align="right">Markdown parser</h1><br>
+<h1 align="right">Markdown Parser</h1><br>
 
 ## Table of contents
 * [General info](#general-info)
